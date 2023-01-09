@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyTravelBook</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAi74lI1fuRrUHco4-ZjG0wXSE18X3ZlPg</string>
+
+</resources>
